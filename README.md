@@ -8,11 +8,17 @@
 
 #App Structure
 •	Home Page - Show relevant info, depending on the status of the user
+
 •	Catalog - A list of all registered teams
+
 •	About - Page that would hold information about the app
+
 •	Register User
+
 •	Create Team
+
 •	Edit Team
+
 •	View Team Details - A detailed page that shows all members of the team and management controls
 
 #CRUD Operations
